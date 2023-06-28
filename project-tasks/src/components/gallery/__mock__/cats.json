@@ -1,0 +1,277 @@
+[
+    {
+        "breeds": [],
+        "id": "2oo",
+        "url": "https://cdn2.thecatapi.com/images/2oo.gif",
+        "width": 330,
+        "height": 186
+    },
+    {
+        "breeds": [],
+        "id": "2rq",
+        "url": "https://cdn2.thecatapi.com/images/2rq.jpg",
+        "width": 900,
+        "height": 600
+    },
+    {
+        "breeds": [],
+        "id": "43v",
+        "url": "https://cdn2.thecatapi.com/images/43v.jpg",
+        "width": 500,
+        "height": 375
+    },
+    {
+        "breeds": [],
+        "id": "4g2",
+        "url": "https://cdn2.thecatapi.com/images/4g2.gif",
+        "width": 600,
+        "height": 400
+    },
+    {
+        "breeds": [],
+        "id": "5ni",
+        "url": "https://cdn2.thecatapi.com/images/5ni.jpg",
+        "width": 500,
+        "height": 375
+    },
+    {
+        "breeds": [],
+        "id": "ahu",
+        "url": "https://cdn2.thecatapi.com/images/ahu.jpg",
+        "width": 612,
+        "height": 612
+    },
+    {
+        "breeds": [],
+        "id": "b2a",
+        "url": "https://cdn2.thecatapi.com/images/b2a.jpg",
+        "width": 400,
+        "height": 300
+    },
+    {
+        "breeds": [],
+        "id": "b70",
+        "url": "https://cdn2.thecatapi.com/images/b70.jpg",
+        "width": 500,
+        "height": 334
+    },
+    {
+        "breeds": [],
+        "id": "bmo",
+        "url": "https://cdn2.thecatapi.com/images/bmo.jpg",
+        "width": 720,
+        "height": 540
+    },
+    {
+        "breeds": [],
+        "id": "dd6",
+        "url": "https://cdn2.thecatapi.com/images/dd6.jpg",
+        "width": 560,
+        "height": 308
+    },
+    {
+        "breeds": [],
+        "id": "MTk3MjE1Mw",
+        "url": "https://cdn2.thecatapi.com/images/MTk3MjE1Mw.jpg",
+        "width": 640,
+        "height": 512
+    },
+    {
+        "breeds": [
+            {
+                "weight": {
+                    "imperial": "5 - 11",
+                    "metric": "2 - 5"
+                },
+                "id": "sfol",
+                "name": "Scottish Fold",
+                "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx",
+                "vetstreet_url": "http://www.vetstreet.com/cats/scottish-fold-highland-fold",
+                "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/scottish-fold",
+                "temperament": "Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving",
+                "origin": "United Kingdom",
+                "country_codes": "GB",
+                "country_code": "GB",
+                "description": "The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the \"Buddha Position\".",
+                "life_span": "11 - 14",
+                "indoor": 0,
+                "alt_names": "Scot Fold",
+                "adaptability": 5,
+                "affection_level": 5,
+                "child_friendly": 4,
+                "dog_friendly": 5,
+                "energy_level": 3,
+                "grooming": 1,
+                "health_issues": 4,
+                "intelligence": 3,
+                "shedding_level": 3,
+                "social_needs": 3,
+                "stranger_friendly": 3,
+                "vocalisation": 1,
+                "experimental": 0,
+                "hairless": 0,
+                "natural": 0,
+                "rare": 0,
+                "rex": 0,
+                "suppressed_tail": 0,
+                "short_legs": 0,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Scottish_Fold",
+                "hypoallergenic": 0,
+                "reference_image_id": "o9t0LDcsa"
+            }
+        ],
+        "id": "q7izjTTa4",
+        "url": "https://cdn2.thecatapi.com/images/q7izjTTa4.jpg",
+        "width": 960,
+        "height": 960
+    },
+    {
+        "breeds": [
+            {
+                "weight": {
+                    "imperial": "6 - 16",
+                    "metric": "3 - 7"
+                },
+                "id": "srex",
+                "name": "Selkirk Rex",
+                "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/SelkirkRex.aspx",
+                "vetstreet_url": "http://www.vetstreet.com/cats/selkirk-rex",
+                "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/selkirk-rex",
+                "temperament": "Active, Affectionate, Dependent, Gentle, Patient, Playful, Quiet, Social",
+                "origin": "United States",
+                "country_codes": "US",
+                "country_code": "US",
+                "description": "The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. ",
+                "life_span": "14 - 15",
+                "indoor": 0,
+                "lap": 1,
+                "alt_names": "Shepherd Cat",
+                "adaptability": 5,
+                "affection_level": 5,
+                "child_friendly": 4,
+                "dog_friendly": 5,
+                "energy_level": 3,
+                "grooming": 2,
+                "health_issues": 4,
+                "intelligence": 3,
+                "shedding_level": 1,
+                "social_needs": 3,
+                "stranger_friendly": 3,
+                "vocalisation": 3,
+                "experimental": 0,
+                "hairless": 0,
+                "natural": 0,
+                "rare": 0,
+                "rex": 1,
+                "suppressed_tail": 0,
+                "short_legs": 0,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Selkirk_Rex",
+                "hypoallergenic": 1,
+                "reference_image_id": "II9dOZmrw"
+            }
+        ],
+        "id": "Z0X1tZQIt",
+        "url": "https://cdn2.thecatapi.com/images/Z0X1tZQIt.jpg",
+        "width": 1138,
+        "height": 1196
+    },
+    {
+        "breeds": [
+            {
+                "weight": {
+                    "imperial": "6 - 12",
+                    "metric": "3 - 5"
+                },
+                "id": "sphy",
+                "name": "Sphynx",
+                "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/Sphynx.aspx",
+                "vetstreet_url": "http://www.vetstreet.com/cats/sphynx",
+                "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/sphynx",
+                "temperament": "Loyal, Inquisitive, Friendly, Quiet, Gentle",
+                "origin": "Canada",
+                "country_codes": "CA",
+                "country_code": "CA",
+                "description": "The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.",
+                "life_span": "12 - 14",
+                "indoor": 0,
+                "lap": 1,
+                "alt_names": "Canadian Hairless, Canadian Sphynx",
+                "adaptability": 5,
+                "affection_level": 5,
+                "child_friendly": 4,
+                "dog_friendly": 5,
+                "energy_level": 3,
+                "grooming": 2,
+                "health_issues": 4,
+                "intelligence": 5,
+                "shedding_level": 1,
+                "social_needs": 5,
+                "stranger_friendly": 5,
+                "vocalisation": 5,
+                "experimental": 0,
+                "hairless": 1,
+                "natural": 0,
+                "rare": 1,
+                "rex": 0,
+                "suppressed_tail": 0,
+                "short_legs": 0,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Sphynx_(cat)",
+                "hypoallergenic": 1,
+                "reference_image_id": "BDb8ZXb1v"
+            }
+        ],
+        "id": "J-vpF8e1N",
+        "url": "https://cdn2.thecatapi.com/images/J-vpF8e1N.jpg",
+        "width": 750,
+        "height": 562
+    },
+    {
+        "breeds": [
+            {
+                "weight": {
+                    "imperial": "7 - 20",
+                    "metric": "3 - 9"
+                },
+                "id": "tvan",
+                "name": "Turkish Van",
+                "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/TurkishVan.aspx",
+                "vetstreet_url": "http://www.vetstreet.com/cats/turkish-van",
+                "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/turkish-van",
+                "temperament": "Agile, Intelligent, Loyal, Playful, Energetic",
+                "origin": "Turkey",
+                "country_codes": "TR",
+                "country_code": "TR",
+                "description": "While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. ",
+                "life_span": "12 - 17",
+                "indoor": 0,
+                "alt_names": "Turkish Cat, Swimming cat",
+                "adaptability": 5,
+                "affection_level": 5,
+                "child_friendly": 4,
+                "dog_friendly": 5,
+                "energy_level": 5,
+                "grooming": 2,
+                "health_issues": 1,
+                "intelligence": 5,
+                "shedding_level": 3,
+                "social_needs": 4,
+                "stranger_friendly": 4,
+                "vocalisation": 5,
+                "experimental": 0,
+                "hairless": 0,
+                "natural": 1,
+                "rare": 0,
+                "rex": 0,
+                "suppressed_tail": 0,
+                "short_legs": 0,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_Van",
+                "hypoallergenic": 0,
+                "reference_image_id": "sxIXJax6h"
+            }
+        ],
+        "id": "RvfGGt00v",
+        "url": "https://cdn2.thecatapi.com/images/RvfGGt00v.jpg",
+        "width": 1127,
+        "height": 1330
+    }
+]
