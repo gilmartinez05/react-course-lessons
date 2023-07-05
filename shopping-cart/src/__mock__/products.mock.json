@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ropa Verde",
+    "description": "This is the description for Product 1.",
+    "price": 10.99,
+    "image": "/img/product1.png",
+    "category": "Category 1",
+    "rating": 4.5,
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "Camisa",
+    "description": "This is the description for Product 2.",
+    "price": 19.99,
+    "image": "/img/product2.png",
+    "category": "Category 2",
+    "rating": 3.8,
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "Sport Blanco",
+    "description": "This is the description for Product 3.",
+    "price": 7.5,
+    "image": "/img/product3.png",
+    "category": "Category 1",
+    "rating": 4.2,
+    "quantity": 0
+  }
+]

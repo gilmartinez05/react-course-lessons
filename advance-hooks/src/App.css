@@ -1,0 +1,19 @@
+#root {
+  text-align: center;
+}
+body{
+  margin:0;
+}
+main{
+  height: 100vh;
+}
+code {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+  font-size: 2rem;
+}
+input {
+  text-align: center;
+  font-size: 2rem;
+}
